@@ -1,13 +1,13 @@
 {
-    "last_updated": "2025-05-26T13:03:30+02:00",
+    "last_updated": "2025-05-26T13:08:56+02:00",
     "national": {
-        "total_confirmed": 0,
-        "active_cases": 0,
-        "recovered": 0,
-        "deaths": 0,
+        "total_confirmed": 45046227,
+        "active_cases": 1009,
+        "recovered": 44511545,
+        "deaths": 533673,
         "tests_conducted": 0,
         "vaccination_doses": {
-            "total": 0,
+            "total": 2206894861,
             "first_dose": 0,
             "second_dose": 0,
             "booster_dose": 0
