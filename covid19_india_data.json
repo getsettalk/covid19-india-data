@@ -1,0 +1,33 @@
+{
+    "last_updated": "2025-05-26T12:54:45+02:00",
+    "national": {
+        "total_confirmed": 0,
+        "active_cases": 0,
+        "recovered": 0,
+        "deaths": 0,
+        "tests_conducted": 0,
+        "vaccination_doses": {
+            "total": 0,
+            "first_dose": 0,
+            "second_dose": 0,
+            "booster_dose": 0
+        }
+    },
+    "states": [],
+    "daily_trends": [],
+    "resources": [],
+    "advisories": [],
+    "extra_params": {
+        "positivity_rate": 0,
+        "vaccination_breakdown": {
+            "covishield": 0,
+            "covaxin": 0
+        },
+        "hospital_capacity": {
+            "total_beds": 0,
+            "icu_beds": 0
+        },
+        "hotspots": [],
+        "data_source": "https:\/\/covid19dashboard.mohfw.gov.in\/"
+    }
+}
